@@ -1,2 +1,0 @@
-# Vano-Zautashvili
-Project1
